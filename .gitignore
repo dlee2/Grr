@@ -1,5 +1,8 @@
 .DS_Store
+*.egg-info/
+dist/
 node_modules
 npm-debug.log
 *.pyc
 *.swp
+*.db
